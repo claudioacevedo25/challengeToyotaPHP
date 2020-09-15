@@ -1,0 +1,290 @@
+.Rectangle {
+    width: 1440px;
+    height: 851px;
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0, 0.95);
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.Rectangle-2-Copy {
+    width: 390px;
+    height: 851px;
+    background-color: #efeeef;
+    float: right;
+    box-sizing: content-box;
+}
+
+.Rectangle-2 {
+    width: 390px;
+    height: 562px;
+    background-color: white;
+}
+
+.Fill-1 {
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+    background-color: #000000;
+    float: right;
+}
+
+.Cerrar {
+    width: 44px;
+    height: 18px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+/* links */
+
+.Modelos {
+    width: 85px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-2 {
+    width: 214px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-3 {
+    width: 127px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-3 {
+    width: 127px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Toyota-Mobility-Serv {
+    width: 226px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Toyota-Gazoo-Racing {
+    width: 207px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Toyota-Hbridos {
+    width: 154px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-1 {
+    width: 151px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Test-Drive {
+    width: 97px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Contacto {
+    width: 91px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-1 {
+    width: 116px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Servicios-al-Cliente {
+    width: 185px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Servicios-al-Cliente {
+    width: 185px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-3 {
+    width: 177px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-4 {
+    width: 110px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-5 {
+    width: 69px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
+
+.Boton-6 {
+    width: 111px;
+    height: 24px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    text-align: right;
+    color: #000000;
+}
