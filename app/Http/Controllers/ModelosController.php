@@ -24,4 +24,8 @@ class ModelosController extends Controller
         $vac = compact('autos');
         return view('modelos', $vac);
     }
+
+    public function fichaModelo(){
+        return view('fichaModelo');
+    }
 }

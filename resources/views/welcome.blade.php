@@ -14,7 +14,7 @@
     <body class="Rectangle">
        <div class="Rectangle-2-Copy">
            <div class="Rectangle-2">
-            <img src="{{asset('img/fill-1.svg')}}" class="Fill-1"><br>
+            <img src="./img/fill-1.svg" class="Fill-1"><br>
                <ul>
                <li><a class="Modelos" href="{{route('modelos')}}">Modelos</a></li>
                    <li><a href="" class="Boton-2">Servicios y Accesorios</a></li>
