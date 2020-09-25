@@ -20,3 +20,4 @@ Route::get('/', function () {
 
 Route::get('/modelos',[ModelosController::class, 'listarModelos'])->name('modelos');
 Route::get('/ficha',[ModelosController::class, 'fichaModelo'])->name('ficha');
+Route::get('/filtrado/{id}',[ModelosController::class, 'fitroModelo']);
